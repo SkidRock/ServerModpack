@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="41">
+    <author>MorganLtd, SkidRock</author>
+    <version>1.0</version>
+    <iconFilename>skidrockicon.dds</iconFilename>
+ 
+    <title>
+        <en>SkidRock Server Modpack</en>
+    </title>
+    <description>
+        <en>
+            <![CDATA[ Contains modified: ScorpionKing, NaWaRo Mouse, Kuhn Squarebaler, Agrisem Plows, Trailers for Eggs and Wool]]>
+        </en>
+        <de>
+            <![CDATA[ Enthält modifizierte: ScorpionKing, NaWaRo Maus, Kuhn Quaderballenpresse, Agrisem Tiefenlockerer, Anhänger für Wolle und Eier]]>
+        </de>
+</description>
+    <multiplayer supported="true" /> 
+    <storeItems>
+        <storeItem rootNode="vehicle" xmlFilename="kuhnLSB1290D.xml"/>
+		<storeItem rootNode="vehicle" xmlFilename="ponsseScorpion.xml"/>
+		<storeItem rootNode="vehicle" xmlFilename="nawaRoMaus.xml"/>
+		<storeItem rootNode="vehicle" xmlFilename="agrisemCombiplow4M.xml"/>
+		<storeItem rootNode="vehicle" xmlFilename="agrisemCultiplowPlatinum8m.xml"/>
+		<storeItem rootNode="vehicle" xmlFilename="TKD302.xml"/>
+		<storeItem rootNode="vehicle" xmlFilename="SB3060.xml"/>
+    </storeItems>
+</modDesc>
